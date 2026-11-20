@@ -1,0 +1,10 @@
+﻿candidate_id,volume_ratio_hypothesis,route_hypothesis,release_rate_hypothesis,outcome,min_across_release_hypotheses,max_across_release_hypotheses,span,n_structural_hypotheses,is_probability_interval
+103,1.0,iv,balanced,cumulative_release_P1_nmol,49.10626346610685,49.106263659008974,1.9290212094347226e-07,2,False
+103,1.0,iv,balanced,cumulative_release_TBKI_nmol,21.27880454842534,49.106263659008974,27.827459110583632,2,False
+103,1.0,iv,balanced,cumulative_release_MIR_nmol,9.03898282877995,49.106263659008974,40.06728083022902,2,False
+103,1.0,iv,balanced,ago2_loaded_nM,2.596832058681799,12.070984299683278,9.47415224100148,2,False
+103,1.0,iv,balanced,progerin_total,0.816362764794409,0.8866394888751478,0.07027672408073882,2,False
+103,1.0,iv,balanced,ec_activation,0.7228475478768522,0.7498774243061481,0.027029876429295885,2,False
+103,1.0,iv,balanced,vsmc_dysfunction,0.8141223430133191,0.8570776620005953,0.042955318987276225,2,False
+103,1.0,iv,balanced,tox_cardiac,1.3187142977847546,1.4190751228853444,0.10036082510058986,2,False
+103,1.0,iv,balanced,tox_immune,1.3187142977847546,1.4190751228853444,0.10036082510058986,2,False

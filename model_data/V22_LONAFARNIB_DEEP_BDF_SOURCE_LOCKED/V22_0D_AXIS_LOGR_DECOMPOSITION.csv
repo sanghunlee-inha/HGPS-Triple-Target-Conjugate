@@ -1,0 +1,7 @@
+﻿rate,axis,mean_signed_logR_component,median_logR_component,spearman_vs_total_logR,exploratory_rank_p_value_not_clinical,mean_abs_component_fraction,interpretation
+low,ec_activation,0.01293257587877458,0.008347609302703306,0.9523968182119996,0,0.5046069907406675,mathematical 0D linear forcing contribution; not mechanistic causality
+low,vsmc_dysfunction,-0.005940283745625165,-0.005401214199745376,0.9580406918677871,0,0.3132907562020546,mathematical 0D linear forcing contribution; not mechanistic causality
+low,ecm_stiffness,-0.002498704376883736,-0.001562347310942351,0.9336189604381531,0,0.182102253057278,mathematical 0D linear forcing contribution; not mechanistic causality
+high,ec_activation,0.1293257587877458,0.08347609302703278,0.9523968182119996,0,0.5046069907407031,mathematical 0D linear forcing contribution; not mechanistic causality
+high,vsmc_dysfunction,-0.05940283745625163,-0.05401214199745377,0.9580406918677871,0,0.3132907562020787,mathematical 0D linear forcing contribution; not mechanistic causality
+high,ecm_stiffness,-0.02498704376883736,-0.01562347310942351,0.9336184428582329,0,0.1821022530572182,mathematical 0D linear forcing contribution; not mechanistic causality
