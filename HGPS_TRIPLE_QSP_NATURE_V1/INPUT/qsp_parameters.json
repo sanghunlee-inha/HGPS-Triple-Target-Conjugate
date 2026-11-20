@@ -1,0 +1,208 @@
+{
+  "model_name": "P1_TBK1_014_miR4651_3_module_conjugate",
+  "evidence_scope": "UNASSIGNED_ALL_HOLD",
+  "dose_unit_provenance": null,
+  "fit_parameters": [],
+  "schedule": {
+    "dose_nM": null,
+    "tau_h": null,
+    "n_doses": null,
+    "horizon_h": null,
+    "dose_grid_nM": null,
+    "tau_grid_h": null
+  },
+  "parameters": {
+    "k_clear_c": {
+      "value": null,
+      "lower": null,
+      "upper": null,
+      "unit": "h^-1",
+      "evidence_type": null,
+      "source_reference": null
+    },
+    "k_exchange": {
+      "value": null,
+      "lower": null,
+      "upper": null,
+      "unit": "h^-1",
+      "evidence_type": null,
+      "source_reference": null
+    },
+    "k_return": {
+      "value": null,
+      "lower": null,
+      "upper": null,
+      "unit": "h^-1",
+      "evidence_type": null,
+      "source_reference": null
+    },
+    "k_clear_t": {
+      "value": null,
+      "lower": null,
+      "upper": null,
+      "unit": "h^-1",
+      "evidence_type": null,
+      "source_reference": null
+    },
+    "k_uptake": {
+      "value": null,
+      "lower": null,
+      "upper": null,
+      "unit": "h^-1",
+      "evidence_type": null,
+      "source_reference": null
+    },
+    "k_clear_ci": {
+      "value": null,
+      "lower": null,
+      "upper": null,
+      "unit": "h^-1",
+      "evidence_type": null,
+      "source_reference": null
+    },
+    "k_release": {
+      "value": null,
+      "lower": null,
+      "upper": null,
+      "unit": "h^-1",
+      "evidence_type": null,
+      "source_reference": null
+    },
+    "k_clear_p": {
+      "value": null,
+      "lower": null,
+      "upper": null,
+      "unit": "h^-1",
+      "evidence_type": null,
+      "source_reference": null
+    },
+    "k_clear_tbk": {
+      "value": null,
+      "lower": null,
+      "upper": null,
+      "unit": "h^-1",
+      "evidence_type": null,
+      "source_reference": null
+    },
+    "k_clear_mir": {
+      "value": null,
+      "lower": null,
+      "upper": null,
+      "unit": "h^-1",
+      "evidence_type": null,
+      "source_reference": null
+    },
+    "ec50_p": {
+      "value": null,
+      "lower": null,
+      "upper": null,
+      "unit": "nM",
+      "evidence_type": null,
+      "source_reference": null
+    },
+    "ec50_tbk": {
+      "value": null,
+      "lower": null,
+      "upper": null,
+      "unit": "nM",
+      "evidence_type": null,
+      "source_reference": null
+    },
+    "ec50_mir": {
+      "value": null,
+      "lower": null,
+      "upper": null,
+      "unit": "nM",
+      "evidence_type": null,
+      "source_reference": null
+    },
+    "k_prnp": {
+      "value": null,
+      "lower": null,
+      "upper": null,
+      "unit": "h^-1",
+      "evidence_type": null,
+      "source_reference": null
+    },
+    "k_prpc": {
+      "value": null,
+      "lower": null,
+      "upper": null,
+      "unit": "h^-1",
+      "evidence_type": null,
+      "source_reference": null
+    },
+    "k_tbk1": {
+      "value": null,
+      "lower": null,
+      "upper": null,
+      "unit": "h^-1",
+      "evidence_type": null,
+      "source_reference": null
+    },
+    "k_srsf1": {
+      "value": null,
+      "lower": null,
+      "upper": null,
+      "unit": "h^-1",
+      "evidence_type": null,
+      "source_reference": null
+    },
+    "k_progerin": {
+      "value": null,
+      "lower": null,
+      "upper": null,
+      "unit": "h^-1",
+      "evidence_type": null,
+      "source_reference": null
+    },
+    "k_inflammation": {
+      "value": null,
+      "lower": null,
+      "upper": null,
+      "unit": "h^-1",
+      "evidence_type": null,
+      "source_reference": null
+    },
+    "k_senescence": {
+      "value": null,
+      "lower": null,
+      "upper": null,
+      "unit": "h^-1",
+      "evidence_type": null,
+      "source_reference": null
+    },
+    "weight_prpc": {
+      "value": null,
+      "lower": null,
+      "upper": null,
+      "unit": "dimensionless",
+      "evidence_type": null,
+      "source_reference": null
+    },
+    "weight_tbk1": {
+      "value": null,
+      "lower": null,
+      "upper": null,
+      "unit": "dimensionless",
+      "evidence_type": null,
+      "source_reference": null
+    },
+    "weight_progerin": {
+      "value": null,
+      "lower": null,
+      "upper": null,
+      "unit": "dimensionless",
+      "evidence_type": null,
+      "source_reference": null
+    },
+    "weight_inflammation": {
+      "value": null,
+      "lower": null,
+      "upper": null,
+      "unit": "dimensionless",
+      "evidence_type": null,
+      "source_reference": null
+    }
+  }
+}

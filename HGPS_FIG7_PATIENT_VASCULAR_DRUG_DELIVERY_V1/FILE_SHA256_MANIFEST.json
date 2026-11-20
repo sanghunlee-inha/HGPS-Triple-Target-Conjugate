@@ -1,0 +1,27 @@
+[
+  {
+    "file": "fig7_delivery.py",
+    "sha256": "1a2b103e90a208c2948f5a25ba73a38c9460b18f12930014ccad9df3fc29eaa8",
+    "bytes": 21746
+  },
+  {
+    "file": "RUN_FIG7_SPATIAL_DELIVERY.ps1",
+    "sha256": "b521bfc9118ef7bff5a29595548532f5e7d46b5d283760dd802691ac56775ae7",
+    "bytes": 2001
+  },
+  {
+    "file": "ROI_LABELS_TEMPLATE.csv",
+    "sha256": "b93b8c26e2159c36cd73259c954d0189b84b96b336f708972ca2bf6d37e460a2",
+    "bytes": 58
+  },
+  {
+    "file": "README_KO.txt",
+    "sha256": "7c851bc23a7cd973bb51441a12ba28d6cb01d3a15c8a7a09b588706f47b50302",
+    "bytes": 3000
+  },
+  {
+    "file": "test_pipeline.py",
+    "sha256": "c8b07efc4a571101affa17d8a9c5100abc912ba05e10db61464928af5a441355",
+    "bytes": 2567
+  }
+]

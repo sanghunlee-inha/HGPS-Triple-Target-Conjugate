@@ -1,0 +1,17 @@
+{
+  "algorithm": "SHA256",
+  "files": {
+    "RUN_NATURE_DEEP.ps1": "f3498f67883d29b6f5a2198f4d90a37199be572e22cacbffccd1b270f01cabe8",
+    "README_KR.md": "a73253d459db191927c49017520fc4ec23d9f44f08d481b77f01510b312257c8",
+    "analysis_pipeline.py": "05dafd0f7b583289adca547032d7f281bc9140183aac9c05543955e272acebd7",
+    "VALIDATION_REPORT.txt": "ec89fbcfc73c5437afb3e8284454ddc0f26841acea060afd494221088576f19b",
+    "calibration.py": "93e04116bea3f85174daaca23d2f415e567bd53329e93db84026904d5425b42f",
+    "qsp_engine.py": "4d8668dd022a0f75bc0a15a4101a4ff6046a031b728807a2e91e8ea0cf01f3c7",
+    "requirements.txt": "52404a30feac665f2f02c168a548a70d022557ac797576c4d1fb022ef0e5f78e",
+    "tests/test_pipeline.py": "17474e066a360a1b67558018e1a95c4cd579c55df6f2e049d05d29b180a4ab2a",
+    "INPUT/mapping_v22.json": "d961835a647f8ec3be61c3f398b0bba4243df348e0fd7064264e738d180843c2",
+    "INPUT/observed_assays_TEMPLATE.csv": "dcabc385744622f3f3a86e8e415775823e9a23a5f7ad09bda22c4444bb66ff6d",
+    "INPUT/qsp_parameters.json": "5d80e22495ea6a89fbd98d8eb2cbf28f9279c88f3b5eb2e2c2c75005b1f0192c",
+    "INPUT/observed_timecourse_TEMPLATE.csv": "c76c5fea6436f35b7245d5a923938ea4ac5a1f3c17500cbc9cbc65e53e023463"
+  }
+}
